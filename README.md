@@ -13,9 +13,15 @@ Application uses:
 
 ------------------------------------------------------------------------------
 Programs:
-- example1 (CollisionVisualisator),
-- example2 (CollisionExample),
+- example1 (CollisionVisualisator):
+Application used to check collision detection functions correctness.
+- example2 (CollisionExample):
+Simple engine using EnvelopeCollide library.
+There are 'hard' shapes (filled) - obstacles, 
+and 'soft' shapes (wireframed), which triggers something when character 
+enters/exits those shapes.
 - performance.
+
 In collision/bin folder will be created static library 'collision'
 (qt is not essential for 'collision' library, however program uses qmake).
 Example1 and example2 programs need qt dynamic libraries to work.
