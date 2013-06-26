@@ -44,3 +44,9 @@ I grant MIT license for 'collision' library (see 'License.txt' for details).
 Qt libraries are used on LGPL 2.1 license
 (see file: 'QtUsedLicense_lgpl-2.1.txt'. Content of license
 is also available on: http://www.gnu.org/licenses/lgpl-2.1.html ).
+
+------------------------------------------------------------------------------
+
+![example1_1](/screenshots/example1_1.png "example1 - CollisionVisualisator")
+![example1_2](/screenshots/example1_2.png)
+![example2_1](/screenshots/example2.png "example2 - CollisionExample")
